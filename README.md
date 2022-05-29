@@ -1,7 +1,7 @@
 # Microsoft_Engage_Data_Analysis
 
 
-* [Why I chose Challenge-2 Data Analysis 📊](why-i-chose-challenge-2-data-analysis-📊)
+* [Why I chose Challenge-2 Data Analysis](#why-i-chose-challenge-2-data-analysis)
 * [Introduction 🌱](introduction-🌱)
 * [Insights obtained from surveys 📰](insights-obtained-from-surveys-📰)
 * [Approach 🎯](approach-🎯)
@@ -12,7 +12,7 @@
 * [Future Scope 💹](future-scope-💹)
 * [References 📚](references-📚)  -->
 
-## Why I chose Challenge-2 Data Analysis 📊
+## Why I chose Challenge-2 Data Analysis
 There are two reasons for choosing it:
 * It seemed challenging yet an interesting topic.
 * I could iterate on some real life use cases for this challenge along with the identification of problems in automotive industry.
