@@ -11,3 +11,10 @@ From October 2019, all cars are mandatorily required to have
 -Reverse parking sensors, as part of standard equipment. 
 
 Additional safety features like Electronic Stability Control (helps apply brakes on individual wheels and maintain better control), Autonomous Emergency Braking and Steering are some of the preferred features.
+
+# Why Random Forest Regressor
+Random Forest regression performs better when the number of noise variables is more than the number of explanatory variables.
+While Linear regression works better if the noise variables are lesser.
+Using Random Forest Regressor: 92.44%
+Using Cross Validation: 15 %
+Using RandomizedSearchCV: Very Low
